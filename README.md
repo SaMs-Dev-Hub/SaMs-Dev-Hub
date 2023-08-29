@@ -32,6 +32,6 @@
 
 <h3>Find me on,</h3>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samiravhad/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter" align="left"></a>
+<a href="https://www.linkedin.com/in/samiravhad/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter" align="left"></a>
 
 
